@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Campus Companion</string>
+    <string name="app_title_welcome">Campus Companion</string>
+    <string name="enter_name_hint">What is your name?</string>
+    <string name="btn_view_tasks">View Tasks</string>
+    <string name="error_empty_name">Please enter your name</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="task_detail_title">Task Details</string>
+    <string name="label_priority">Priority:</string>
+    <string name="label_description">Description:</string>
+    <string name="btn_mark_complete">Mark Complete</string>
+    <string name="error_task_not_found">Error: Task details could not be loaded.</string>
+    <string name="dialog_confirm_title">Confirm Completion</string>
+    <string name="dialog_confirm_message">Are you sure you want to mark this task as complete?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">Cancel</string>
+    <string name="toast_task_completed">Task Completed!</string>
+</resources>
