@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Phone Orientation</string>
+    <string name="accelerometer_label">Accelerometer Data</string>
+    <string name="gyroscope_label">Gyroscope Data</string>
+    <string name="orientation_label">Orientation Output</string>
+    <string name="accel_x">Accel X: %1$.2f m/s²</string>
+    <string name="accel_y">Accel Y: %1$.2f m/s²</string>
+    <string name="accel_z">Accel Z: %1$.2f m/s²</string>
+    <string name="gyro_x">Gyro X: %1$.2f rad/s</string>
+    <string name="gyro_y">Gyro Y: %1$.2f rad/s</string>
+    <string name="gyro_z">Gyro Z: %1$.2f rad/s</string>
+    <string name="pitch_label">Pitch: %1$d°</string>
+    <string name="roll_label">Roll: %1$d°</string>
+    <string name="status_upright">Status: Upright</string>
+    <string name="status_flat">Status: Flat</string>
+    <string name="status_tilted">Status: Tilted</string>
+    <string name="sensor_error">Sensor unavailable on this device</string>
+</resources>
