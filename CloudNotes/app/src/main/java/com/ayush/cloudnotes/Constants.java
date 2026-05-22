@@ -7,5 +7,5 @@ public class Constants {
     public static final String AWS_REGION        = "us-east-2";
     public static final String DYNAMO_TABLE_NAME = "Notes";
     public static final String ACCESS_KEY        = "AKIAVDGSCQYAYHQ4EDVV";
-    public static final String SECRET_KEY        = "2+xSWCdvUU0wrVdslOh3lzx1nLO32lDHAQoHjX4T\n";
+    public static final String SECRET_KEY        = "PUT_YOUR_SECRET_KEY_HERE";
 }
